@@ -35,7 +35,7 @@ const Scholarship = () => {
     },
     {
       type: 'article',
-      title: 'Shi'a-Sunni Relations in Colonial India: Networks of Scholarship and Patronage',
+      title: 'Shia-Sunni Relations in Colonial India: Networks of Scholarship and Patronage',
       year: '2019',
       publisher: 'Modern Asian Studies, 53(5)',
       description: 'Examines the dynamics of sectarian relations through the lens of scholarly networks and patronage systems.',
@@ -96,7 +96,7 @@ const Scholarship = () => {
       description: 'Mapping connections between South Asian Muslims and broader Islamic world during the colonial period.'
     },
     {
-      title: 'Shi'a-Sunni Dynamics in South Asia',
+      title: 'Shia-Sunni Dynamics in South Asia',
       description: 'Examining sectarian relations, scholarly exchanges, and shared cultural practices.'
     }
   ];
