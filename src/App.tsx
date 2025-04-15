@@ -19,7 +19,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/bridging-worlds-echoes">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<About />} />
